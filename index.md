@@ -1,7 +1,4 @@
+---
+title: Welcome to My Blog
+---
 
----
-title: Welcome to my Blog 
----
-```
-cout<<"Coding is fun!":
-```
