@@ -1,7 +1,4 @@
 ---
-title: FIrst GIT HUB PAGE 
+title: Welcome to My Blog
 ---
-```
-cout<<"THIS IS NICE FOR ME";
-```
 
