@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+Wassaup: My First GitHub Page 
 ---
-
+```
+cout<<"Coding is fun!":
+```
