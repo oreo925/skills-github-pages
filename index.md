@@ -1,5 +1,6 @@
+
 ---
-Wassaup: My First GitHub Page 
+title: Welcome to my Blog 
 ---
 ```
 cout<<"Coding is fun!":
